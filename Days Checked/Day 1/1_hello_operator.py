@@ -1,0 +1,5 @@
+name = input("whats your name? ")
+date = input("What's today's date? ")
+print(f"Hello {name}")
+print(f"today is {date} - let's make it productive.")
+print("Remember: consistency beats motivation.")

@@ -147,7 +147,7 @@ def delete_task(tasks):
 # When you include
 #
 # if task_is_found:
-#    break
+#    breaka
 #
 #
 # the loop now has a valid exit path → Python knows that eventually it can get past the loop and reach return tasks. ✅
@@ -163,7 +163,7 @@ def main():
     # while True:
     while True:
         # print menu (1–5)
-        print(""" 1.Add tasks 
+        print(""" 1.Add tasks
  2.View tasks 
  3.Mark tasks as done
  4.Remove task
